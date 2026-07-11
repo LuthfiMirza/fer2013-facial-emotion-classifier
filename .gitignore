@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+.qodo/
+
+# Logs and temporary files
+*.log
+tmp_*/
+=2.13,
+
+# Local archives
+*.zip
+
+# Dataset files are downloaded/generated locally
+submission/data/
+
+# Optional local experiment outputs
+*.tmp
