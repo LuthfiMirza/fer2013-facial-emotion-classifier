@@ -254,8 +254,8 @@ The most important technical challenge is adapting small grayscale FER2013 image
 
 ## Author
 Luthfi Mirza Darsono
-- GitHub: add your GitHub profile link
-- LinkedIn: add your LinkedIn profile link
+- GitHub: https://github.com/LuthfiMirza
+- LinkedIn: https://www.linkedin.com/in/luthfimirzadarsono/
 
 ## GitHub Repository Suggestion
 - **Repo name:** `fer2013-emotion-classifier`
